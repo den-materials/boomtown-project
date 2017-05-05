@@ -14,8 +14,8 @@ Monday at 1pm, we will meet the Boomtown folks and get a basic rundown of their 
 
 Below is a table of the Boomtown matchups:
 
-|----               |----             |
 |GA Squad           |Boomtown Startup |
+| -------------     |:-------------:  |
 |Cocktail Compass   |ReadDog          |
 |Food Truck Finder  |Casting.AI       |
 |New Fishin App     |ShadowBid        |
