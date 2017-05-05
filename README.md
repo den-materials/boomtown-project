@@ -21,7 +21,7 @@ Below is a table of the Boomtown matchups:
 |New Fishin App     |ShadowBid        |
 |Bystander Buddy    |SensientHR       |
 
-You will be receiving the product pitch and basic app design notes from your startups on Slack.  Welcome to your first client project!
+You will be receiving the product pitch and basic app design notes from your startups on Slack. Welcome to your first client project!
 
 ## What Should We Have Done by Monday?
 
@@ -31,4 +31,4 @@ You will be meeting with your startups for the majority of our time at Boomtown,
 - At least 3 technologies you recommend to create their product with
 - A prototype built on those technologies that addresses the product request
 
-but you should trust your squad's judgment on anything extra you want to research and/or create.
+However, you should trust your squad's judgment on anything extra you want to research and/or create.
