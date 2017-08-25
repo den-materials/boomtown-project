@@ -8,20 +8,9 @@ Over the weekend, you will be responsible for researching and creating a prototy
 
 ## What Are We Doing?
 
-Monday at 1pm, we will meet the Boomtown folks and get a basic rundown of their space and what they do.  Then we will split up, and each squad will pair up with their respective startups and pitch their research results and the prototype they created over the weekend.
+Monday at 3pm, we will meet the Boomtown folks and get a basic rundown of their space and what they do.  Then we will split up, and each squad will pair up with their respective startups and pitch their research results and the prototype they created over the weekend.
 
-## Who Is Working with Whom?
-
-Below is a table of the Boomtown matchups:
-
-|GA Squad           |Boomtown Startup |
-| -------------     |:-------------:  |
-|Cocktail Compass   |ReadDog          |
-|Food Truck Finder  |Casting.AI       |
-|New Fishin App     |ShadowBid        |
-|Bystander Buddy    |SensientHR       |
-
-You will be receiving the product pitch and basic app design notes from your startups on Slack. Welcome to your first client project!
+You will be receiving the product pitch and basic app design notes from your startups on a Join.me meeting this afternoon at 3pm. Welcome to your first client project!
 
 ## What Should We Have Done by Monday?
 
